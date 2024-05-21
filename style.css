@@ -1,0 +1,111 @@
+html,
+body {
+    position: relative;
+    height: 100%;
+}
+
+body {
+    background: #eee;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #000;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #fff;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #000;
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    position: relative;
+    height: 100%;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+swiper-container {
+    width: 240px;
+    height: 320px;
+}
+
+swiper-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 18px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #fff;
+}
+
+swiper-slide:nth-child(1n) {
+    background-color: #000000;
+}
+
+swiper-slide:nth-child(2n) {
+    background-color: #000000;
+}
+
+swiper-slide:nth-child(3n) {
+    background-color: #000000;
+}
+
+swiper-slide:nth-child(4n) {
+    background-color: #000000;
+}
+
+swiper-slide:nth-child(5n) {
+    background-color: #000000;
+}
+
+swiper-slide:nth-child(6n) {
+    background-color: #000000;
+}
+
+swiper-slide:nth-child(7n) {
+    background-color: #000000;
+}
+
+swiper-slide:nth-child(8n) {
+    background-color: #000000;
+}
+
+swiper-slide:nth-child(9n) {
+    background-color: #000000;
+}
+
+swiper-slide:nth-child(10n) {
+    background-color: #000000;
+}
+
+.card__img {
+    width: 200px;
+    border-radius: 15px;
+}
+
+.card__button {
+    display: flex;
+    gap: 130px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+
+swiper-slide {
+    padding: 50px 20px;
+}
